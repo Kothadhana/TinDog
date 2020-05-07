@@ -8,6 +8,11 @@
   height: 50px;
   width: 150px;
   font-size: 20px;
+  padding: 15px;
+}
+.col1 , .col2 , .col3 , .col4{
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .five{
   color: white;
@@ -48,6 +53,9 @@ nav
   font-family: Ubuntu, sans-serif;
   color: #fff;
   background-color: #ff4c68;
+}
+.navbar-toggler{
+  float: right;
 }
 .container-fluid
 {
